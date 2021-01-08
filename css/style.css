@@ -521,11 +521,14 @@ dt:hover {
     width: 12em;
     padding: .6em;
     font-size: 2em;
+    margin-bottom: .4em;
   }
   #header-2 {
     margin-bottom: 2em;
+    height: 10em;
   }
   #header-2 h1 {
+    margin-top: .2em;
     font-size: 1.5em;
   }
   #header-2 .controls {
@@ -545,9 +548,26 @@ dt:hover {
   }
 }
 
-@media (max-width: 530px) {
+@media (max-width: 570px) {
+  main {
+    height: 100em;
+  }
+}
+
+@media (max-width: 485px) {
   main {
     height: 110em;
   }
 }
-/*# sourceMappingURL=portfo_2.css.map */
+
+@media (max-width: 450px) {
+  section h3 {
+    width: 10em;
+    padding: .6em;
+    font-size: 1.8em;
+  }
+  #header-2 h1 {
+    font-size: 1.3em;
+  }
+}
+/*# sourceMappingURL=style.css.map */

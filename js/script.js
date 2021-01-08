@@ -83,18 +83,5 @@
 		else returnTop.hide();
   });
 
-  //-------------------------------------------------------
-  //SOURCES ACCORDION
-  
-  var list = $('dl'),
-      links = $('dd'),
-      sources = $('dt');
-
-  list.find(links).hide();
-
-  sources.on('click', function(){
-    links.slideToggle();
-  });
-
 })(jQuery);
 
