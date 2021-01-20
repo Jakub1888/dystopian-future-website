@@ -408,7 +408,6 @@ dt:hover {
   top: 0;
   right: 0;
   width: 4px;
-  height: 100%;
   border-radius: 7px;
   background: linear-gradient(to top, #e33787, #383e65);
   z-index: 50;
