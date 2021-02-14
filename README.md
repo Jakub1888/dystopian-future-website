@@ -1,7 +1,5 @@
 # Dystopian Future in pop-culture
 
-link: https://jakub1888.github.io/
-
 This is my first created website which also serves as portfolio showcasing all of the coding technologies that I learned so far as a self-taught web developer.
 
 Technologies used here are HTML, SCSS and little bit of jQuery.
